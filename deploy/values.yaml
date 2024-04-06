@@ -1,6 +1,6 @@
 replicaCount: 5
 image:
-  repository: lorenafoia/nlw.service.passin
+  repository: lorenasg1/nlw.service.passin
   pullPolicy: Always
   tag: f3bf3cd
   port: 3333
