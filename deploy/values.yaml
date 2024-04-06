@@ -2,7 +2,7 @@ replicaCount: 5
 image:
   repository: lorenasg1/nlw.service.passin
   pullPolicy: Always
-  tag: f3bf3cd
+  tag: b73e720
   port: 3333
 imagePullSecrets: []
 nameOverride: ''
